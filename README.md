@@ -1,4 +1,4 @@
-# my-site
+# hubara-template
 
 a [hubara](https://github.com/canaribo/hubara) site.
 
